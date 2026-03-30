@@ -2,6 +2,10 @@
 
 A simple application to track your budget, expenses, and income.
 
+## Live Link
+(https://budget-tracker-dun-pi.vercel.app/budget-tracker-rebuild.html)
+
+
 ## Screenshots
 
 ### 1. Dashboard
@@ -20,5 +24,3 @@ A simple application to track your budget, expenses, and income.
 ![Budget Planning](https://github.com/aniketsrivastava81/budget_tracker/raw/main/screenshots/BT%20-%2005%20Budget%20Planning.png)
 
 
-### 6. live link
-(https://budget-tracker-dun-pi.vercel.app/budget-tracker-rebuild.html)
